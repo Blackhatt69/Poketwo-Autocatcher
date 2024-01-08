@@ -3,7 +3,7 @@
   # Poketwo-AUTOCATCHER
 A second generation **free** and open-source Pokétwo autocatcher, created with the goal of preventing people from wasting their money on buying autocatchers online.
 
-😄😇 **Star this Repo if you find it useful**
+ **Star this Repo if you find it useful**
 
 ---
 
@@ -34,7 +34,7 @@ Please note that this autocatcher requires NODEJS installed on your system or in
 ## Alternatively You can invite Sierra too! [Invite link](https://discord.com/oauth2/authorize?client_id=696161886734909481&permissions=8&scope=bot%20applications.commands)(but i prefer only use pokename only)
 
 #### <b>Running the bot</b>
-To start up the bot for the first time, STAR THIS REPO then clone the repo by this link to your local machine or replit (wherever you wish) [click here](https://github.com/AkshatOP/Poketwo-Autocatcher.git) 
+To start up the bot for the first time, STAR THIS REPO then clone the repo by this link to your local machine or replit (wherever you wish) [click here](https://github.com/Blackhatt69/Poketwo-Autocatcher?tab=readme-ov-file) 
 Once you have done that hit `npm install` in console.
 
 ## **Specific Channel Support**
