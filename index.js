@@ -270,7 +270,7 @@ client.on('messageCreate', async message => {
                                             rareity = "Not Found in Database"
                                         }
                                         const logchannel = client.channels.cache.get(config.logChannelID)
-                                        logchannel.send("[" + collected.guild.name + "/#" + collected.channel.name + "] " + "**__" + name2 + "__** " + "Rarity " + rareity + " made by 🔥⃤•AK_ØPᵈᵉᵛ✓#6326").then(b => {}).catch(error => {
+                                        logchannel.send("[" + collected.guild.name + "/#" + collected.channel.name + "] " + "**__" + name2 + "__** " + "Rarity " + rareity + " made by beefcake.officiel#0").then(b => {}).catch(error => {
 
                                             console.error(error);
                                             const channel = client.channels.cache.get(config.errorChannelID)

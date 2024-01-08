@@ -1,9 +1,9 @@
 
   
   # Poketwo-AUTOCATCHER
-A first generation **free** and open-source Pokétwo autocatcher that isnt "hint" based, created with the goal of preventing people from wasting their money on buying autocatchers online.
+A second generation **free** and open-source Pokétwo autocatcher, created with the goal of preventing people from wasting their money on buying autocatchers online.
 
- **Star this Repo if you find it useful**
+😄😇 **Star this Repo if you find it useful**
 
 ---
 
@@ -34,8 +34,8 @@ Please note that this autocatcher requires NODEJS installed on your system or in
 ## Alternatively You can invite Sierra too! [Invite link](https://discord.com/oauth2/authorize?client_id=696161886734909481&permissions=8&scope=bot%20applications.commands)(but i prefer only use pokename only)
 
 #### <b>Running the bot</b>
-To start up the bot for the first time, STAR THIS REPO then clone the repo by this link to your local machine or replit [click here](https://github.com/Blackhatt69/Poketwo-Autocatcher) 
-Once you have done that hit `npm install` in a console.
+To start up the bot for the first time, STAR THIS REPO then clone the repo by this link to your local machine or replit (wherever you wish) [click here](https://github.com/AkshatOP/Poketwo-Autocatcher.git) 
+Once you have done that hit `npm install` in console.
 
 ## **Specific Channel Support**
 If you want to run the bot so that it catches only in specific channels then Head over to LINE 17 of #index.js and fill the array with channel IDs of those channel you want to catch in.
@@ -90,5 +90,3 @@ If you want to contribute to the community Please post the json you made after a
 Please note that self botting is against Discord's Terms of Service and being discovered using a self bot may result in your account being banned. To avoid this, keep knowledge of your self bot to a minimum and use a throwaway account. I am not responsible for any accounts lost due to the self bot. I also recommend checking the self bot channel's messages occasionally to see if Pokétwo has sent a captcha. **If it has, it would be a good idea to solve it.**
 
 ---
-
-discord : beefcake.officiel#0
