@@ -119,7 +119,7 @@ client.on('messageCreate', async message => {
     if (message.content === "$help" && message.author.id === config.OwnerID) {
 
         await message.channel.send(
-            "``` Poketwo-Autocatcher\n Link: https://github.com/AkshatOP/Poketwo-Autocatcher\n\n $captcha_completed : Use to restart the bot once captcha is solved\n $say <content> : Make the bot say whatever you want\n $react <messageID> : React with ✅ emoji\n $click <messageID> : Clicks the button which has ✅ emoji\n $help : To show this message ```"
+            "``` Poketwo-Autocatcher\n Link: https://github.com/Blackhatt69/Poketwo-Autocatcher\n\n $captcha_completed : Use to restart the bot once captcha is solved\n $say <content> : Make the bot say whatever you want\n $react <messageID> : React with ✅ emoji\n $click <messageID> : Clicks the button which has ✅ emoji\n $help : To show this message ```"
         )
     }
 
